@@ -1,0 +1,13 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+403,Shinx,Electric,263,45,65,34,40,34,45,4,False
+404,Luxio,Electric,363,60,85,49,60,49,60,4,False
+405,Luxray,Electric,523,80,120,79,95,79,70,4,False
+417,Pachirisu,Electric,405,60,45,70,45,90,95,4,False
+462,Magnezone,Electric,Steel,535,70,70,115,130,90,60,4,False
+466,Electivire,Electric,540,75,123,67,95,85,95,4,False
+479,Rotom,Electric,Ghost,440,50,50,77,95,77,91,4,False
+479,RotomHeat Rotom,Electric,Fire,520,50,65,107,105,107,86,4,False
+479,RotomWash Rotom,Electric,Water,520,50,65,107,105,107,86,4,False
+479,RotomFrost Rotom,Electric,Ice,520,50,65,107,105,107,86,4,False
+479,RotomFan Rotom,Electric,Flying,520,50,65,107,105,107,86,4,False
+479,RotomMow Rotom,Electric,Grass,520,50,65,107,105,107,86,4,False

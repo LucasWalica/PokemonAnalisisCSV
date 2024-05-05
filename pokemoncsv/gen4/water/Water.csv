@@ -1,0 +1,16 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+393,Piplup,Water,,314,53,51,53,61,56,40,4,False
+394,Prinplup,Water,,405,64,66,68,81,76,50,4,False
+395,Empoleon,Water,Steel,530,84,86,88,111,101,60,4,False
+400,Bibarel,Normal,Water,410,79,85,60,55,60,71,4,False
+418,Buizel,Water,,330,55,65,35,60,30,85,4,False
+419,Floatzel,Water,,495,85,105,55,85,50,115,4,False
+422,Shellos,Water,,325,76,48,48,57,62,34,4,False
+423,Gastrodon,Water,Ground,475,111,83,68,92,82,39,4,False
+456,Finneon,Water,,330,49,49,56,49,61,66,4,False
+457,Lumineon,Water,,460,69,69,76,69,86,91,4,False
+458,Mantyke,Water,Flying,345,45,20,50,60,120,50,4,False
+479,RotomWash Rotom,Electric,Water,520,50,65,107,105,107,86,4,False
+484,Palkia,Water,Dragon,680,90,120,100,150,120,100,4,True
+489,Phione,Water,,480,80,80,80,80,80,80,4,False
+490,Manaphy,Water,,600,100,100,100,100,100,100,4,False

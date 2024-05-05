@@ -1,0 +1,7 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+390,Chimchar,Fire,,309,44,58,44,58,44,61,4,False
+391,Monferno,Fire,Fighting,405,64,78,52,78,52,81,4,False
+392,Infernape,Fire,Fighting,534,76,104,71,104,71,108,4,False
+467,Magmortar,Fire,540,75,95,67,125,95,83,4,False
+479,RotomHeat Rotom,Electric,Fire,520,50,65,107,105,107,86,4,False
+485,Heatran,Fire,Steel,600,91,90,106,130,106,77,4,True

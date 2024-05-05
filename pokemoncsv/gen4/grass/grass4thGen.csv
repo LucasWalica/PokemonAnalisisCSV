@@ -1,0 +1,16 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+387,Turtwig,Grass,318,55,68,64,45,55,31,4,False
+388,Grotle,Grass,405,75,89,85,55,65,36,4,False
+389,Torterra,Grass,Ground,525,95,109,105,75,85,56,4,False
+406,Budew,Grass,Poison,280,40,30,35,50,70,55,4,False
+407,Roserade,Grass,Poison,515,60,70,65,125,105,90,4,False
+420,Cherubi,Grass,275,45,35,45,62,53,35,4,False
+421,Cherrim,Grass,450,70,60,70,87,78,85,4,False
+455,Carnivine,Grass,454,74,100,72,90,72,46,4,False
+459,Snover,Grass,Ice,334,60,62,50,62,60,40,4,False
+460,Abomasnow,Grass,Ice,494,90,92,75,92,85,60,4,False
+460,AbomasnowMega Abomasnow,Grass,Ice,594,90,132,105,132,105,30,4,False
+465,Tangrowth,Grass,535,100,100,125,110,50,50,4,False
+470,Leafeon,Grass,525,65,110,130,60,65,95,4,False
+492,ShayminLand Forme,Grass,600,100,100,100,100,100,100,4,True
+492,ShayminSky Forme,Grass,Flying,600,100,103,75,120,75,127,4,True

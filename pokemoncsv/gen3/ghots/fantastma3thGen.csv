@@ -1,0 +1,9 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+292,Shedinja,Bug,Ghost,236,1,90,45,30,30,40,3,False
+302,Sableye,Dark,Ghost,380,50,75,75,65,65,50,3,False
+302,SableyeMega Sableye,Dark,Ghost,480,50,85,125,85,115,20,3,False
+353,Shuppet,Ghost,,295,44,75,35,63,33,45,3,False
+354,Banette,Ghost,,455,64,115,65,83,63,65,3,False
+354,BanetteMega Banette,Ghost,,555,64,165,75,93,83,75,3,False
+355,Duskull,Ghost,,295,20,40,90,30,90,25,3,False
+356,Dusclops,Ghost,,455,40,70,130,60,130,25,3,False

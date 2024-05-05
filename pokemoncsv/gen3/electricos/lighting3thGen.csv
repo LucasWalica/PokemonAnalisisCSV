@@ -1,0 +1,6 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+309,Electrike,Electric,,295,40,45,40,65,40,65,3,False
+310,Manectric,Electric,,475,70,75,60,105,60,105,3,False
+310,ManectricMega Manectric,Electric,,575,70,75,80,135,80,135,3,False
+311,Plusle,Electric,,405,60,50,40,85,75,95,3,False
+312,Minun,Electric,,405,60,40,50,75,85,95,3,False

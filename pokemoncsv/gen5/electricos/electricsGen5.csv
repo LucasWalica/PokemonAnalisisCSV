@@ -1,0 +1,13 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+522,Blitzle,Electric,,295,45,60,32,50,32,76,5,False
+523,Zebstrika,Electric,,497,75,100,63,80,63,116,5,False
+587,Emolga,Electric,Flying,428,55,75,60,75,60,103,5,False
+595,Joltik,Bug,Electric,319,50,47,50,57,50,65,5,False
+596,Galvantula,Bug,Electric,472,70,77,60,97,60,108,5,False
+602,Tynamo,Electric,,275,35,55,40,45,40,60,5,False
+603,Eelektrik,Electric,,405,65,85,70,75,70,40,5,False
+604,Eelektross,Electric,,515,85,115,80,105,80,50,5,False
+618,Stunfisk,Ground,Electric,471,109,66,84,81,99,32,5,False
+642,ThundurusIncarnate Forme,Electric,Flying,580,79,115,70,125,80,111,5,True
+642,ThundurusTherian Forme,Electric,Flying,580,79,105,70,145,80,101,5,True
+644,Zekrom,Dragon,Electric,680,100,150,120,120,100,90,5,True
