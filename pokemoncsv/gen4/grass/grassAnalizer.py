@@ -2,7 +2,7 @@ import csv
 import matplotlib.pyplot as plt 
 import numpy as np 
 
-with open('pokemoncsv\\cuarta_gen\\grass\\grass4thGen.csv', 'r', encoding='UTF-8') as csv_file:
+with open('pokemoncsv\gen4\grass\grass4thGen.csv', 'r', encoding='UTF-8') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     data = []
     for row in csv_reader:
