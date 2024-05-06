@@ -33,7 +33,7 @@ plt.xticks(index + 1.5 * bar_width, Name)
 
 plt.xlabel('Pokemon')
 plt.ylabel('Values')
-plt.title('3th generation')
+plt.title('5th generation Electric')
 plt.tight_layout()
 plt.legend(loc='upper right', bbox_to_anchor=(1, 1), fontsize=5 ,labels=['Sp_attack', 'Def', 'Hp', 'Attack', 'Spdef', 'Speed'])
 plt.show()
